@@ -1,0 +1,12 @@
+{
+    "name": "d-and-discord",
+    "version": "1.0.0",
+    "description": "D&D database bot for all your spell, class and race searching needs!",
+    "main": "bot.js",
+    "author": "Thomskii",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "node-fetch": "^2.6.0",
+        "winston": "^3.2.1"
+    }
+}
